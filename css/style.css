@@ -1,0 +1,25 @@
+* {
+  line-height: 1;
+}
+
+.number__child {
+  padding-left: 40px;
+}
+
+p:nth-child(2) {
+  color: blue;
+}
+
+div p:nth-child(3){
+  color: blue;
+}
+
+p:nth-child(5) {
+  color: red;
+}
+
+p:nth-child(11) {
+  color: red;
+}
+
+
